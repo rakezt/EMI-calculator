@@ -1,5 +1,5 @@
 
-# react-EMI-calculator
+# REACT-EMI-CALCULATOR
 EMI calculator component  build with React
 
 ![alt text](https://github.com/rakezt/EMI-calculator/blob/master/calculator.JPG)
