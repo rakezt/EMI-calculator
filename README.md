@@ -9,7 +9,7 @@ This reusable react-JS component could be used in any App where such an calculat
 How to run it locally from command line
 
 - Clone this repo git clone https://github.com/rakezt/EMI-calculator.git
-- cd ReactLoanCalculator
+- cd EMI-calculator
 - run npm install
 - npm start  
 
