@@ -26,7 +26,7 @@ class Calculator extends Component {
     const { monthsValue, amountValue } = this.state;
 
     return (
-      <div className="App bg-light-blue">
+      <div className="App">
         <h4>EMI Calculator</h4>
         <div>
           <h3>Enter Amount between $500 and $5000</h3>

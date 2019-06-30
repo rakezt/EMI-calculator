@@ -10,7 +10,7 @@ How to run it locally from command line
 
 - Clone this repo git clone https://github.com/rakezt/EMI-calculator.git
 - cd EMI-calculator
-- run npm install
-- npm start  
+- run "npm install"
+- run "npm start"  
 
 # DEMO: https://emicalculator.netlify.com/

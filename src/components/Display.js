@@ -61,11 +61,12 @@ class Display extends Component {
       return <div>Loading......</div>;
     } else {
       return (
-        <div className="flex">
+        <div className="flex b">
           <DisplayChild func={item.interestRate} text="Interest Rate" />
-          <DisplayChild
+          
+          <DisplayChild 
             func={item.monthlyPayment.amount}
-            text=" Monthly Repayment"
+            text="USD Monthly Repayment"
           />
         </div>
       );
