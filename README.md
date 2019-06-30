@@ -4,7 +4,7 @@ EMI calculator component  build with React
 
 ![alt text](https://github.com/rakezt/EMI-calculator/blob/master/calculator.JPG)
 
-This reusable react-JS component could be used in any App where such an calculation is needed.
+This reusable react-JS component could be used in any App where such calculation is needed.
 
 How to run it locally from command line
 
